@@ -22,18 +22,19 @@
 
 - Este projeto foi realizado no bootcamp - Esse projeto foi desenvolvido no bootcamp [Binance - Blockchain Developer with Solidity](https://www.dio.me/bootcamp/coding-the-future-blockchain-developer-with-solidity) da [DIO](https://www.dio.me/), onde há diversos conteúdos sobre Web3, Blockchain, Criptografia, Criptomoedas, entre outros temas techs que estão cada vez mais ganhando notoriedade.
 - Trata-se de um contrato inteligente criado na blockchain Ethereum, onde ao ser executado ele permite:
-    1. Inserir inputs de nomes de pessoas;
-    2. Votar nas pessoas inseridas;
-    3. Verificar qual é o índice da pessoa;
-    4. Verificar quantos votos a pessoa recebeu;
-    5. Verificar se a pessoa consta na "base de dados";
+    - Inserir inputs de nomes de pessoas;
+    - Votar nas pessoas inseridas;
+    - Verificar qual é o índice da pessoa;
+    - Verificar quantos votos a pessoa recebeu;
+    - Verificar se a pessoa consta na "base de dados";
 
 ### Testando o contrato
 - Caso queira testá-lo, siga o passo a passo a seguir:
 1. Acesse o site [Remix](https://remix.ethereum.org/), uma IDE profissional online, mas também muito utilizada para fins didáticos e testes. Provavelmente você irá se deparar com a tela a seguir: 
     ![Tela inicial](assets/Smart%20Contract%20DIO%20-%201.png)
 2. Crie uma nova pasta clicando no ícone indicado a seguir (caso queira, você pode excluir os arquivos já existentes, basta colocar o mouse sobre eles e clicar no ícone de lixeira):
-    ![Ícones](assets/Smart%20Contract%20DIO%20-%202.png)
+    <p style="text-align: left;"><img src="assets/Smart%20Contract%20DIO%20-%202.png" alt="Ícone" style="float: left; margin-right: 10px;" /></p>
+
 3. Crie um arquivo nessa pasta, clicando no ícone imediatamente à esquerda.
 4. Copie o código deste repositório e cole nesse novo arquivo.
 5. No menu lateral, clique no ícone da logo Solidity e, em seguida, Compile:
