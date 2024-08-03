@@ -40,9 +40,10 @@
 5. No menu lateral, clique no ícone da logo Solidity e, em seguida, Compile:
     ![Compile](assets/Smart%20Contract%20DIO%20-%203.png)
 6. No menu lateral, clique no ícone imediatamenta abaixo, procure pelo campo deploy e insera os nomes de sua preferência, será os nomes dos candidatos, é importante inserir dentro de colchetes ( [ ] ) e entre aspas ( " " ), para separar os nomes utilize , após as aspas:
+    <p style="text-align: left;"><img src="assets/Smart%20Contract%20DIO%20-%204.png" alt="Deploy" style="float: left; margin-right: 10px;" /></p>
     ![Deploy](assets/Smart%20Contract%20DIO%20-%204.png)
 7. Na mesma aba, procure por Deployed/Unpinned Contracts no final, clique na setinha para expandir o campo e basta inserir os dados. 
-    ![Deployed](assets/Smart%20Contract%20DIO%20-%205.png)
+    <p style="text-align: left;"><img src="assets/Smart%20Contract%20DIO%20-%205.png" alt="Deployed" style="float: left; margin-right: 10px;" /></p>
 8. Para votar em um dos candidatos inseridos, você deve inserir o nome (dessa vez sem colchetes e aspas) e clicar no botão ao lado com o nome da função, o mesmo serve para os outros campos.
     -  O primeiro campo diz respeito aos votos;
     - O segundo campo serve para buscar o candidato pelo seu índice no array;
