@@ -20,7 +20,7 @@
 
 ## Sobre o projeto
 
-- Este projeto foi realizado no bootcamp - Esse projeto foi desenvolvido no bootcamp [Binance - Blockchain Developer with Solidity](https://www.dio.me/bootcamp/coding-the-future-blockchain-developer-with-solidity) da [DIO](https://www.dio.me/), onde há diversos conteúdos sobre Web3, Blockchain, Criptografia, Criptomoedas, entre outros temas techs que estão cada vez mais ganhando notoriedade.
+- Esse projeto foi desenvolvido no bootcamp [Binance - Blockchain Developer with Solidity](https://www.dio.me/bootcamp/coding-the-future-blockchain-developer-with-solidity) da [DIO](https://www.dio.me/), onde há diversos conteúdos sobre Web3, Blockchain, Criptografia, Criptomoedas, entre outros temas techs que estão cada vez mais ganhando notoriedade.
 - Trata-se de um contrato inteligente criado na blockchain Ethereum, onde ao ser executado ele permite:
     - Inserir inputs de nomes de pessoas;
     - Votar nas pessoas inseridas;
